@@ -2,6 +2,6 @@
  
 #### 
 Data analysis and model research of ai decision making for AutomatedAd Campaigns
-1. open/close campaign
-2. increase/decrease cpi/budget
+task1: open/close campaign
+task2: ncrease/decrease cpi/budget
 #### 
